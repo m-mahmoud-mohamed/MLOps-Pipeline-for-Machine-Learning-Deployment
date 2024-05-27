@@ -11,6 +11,8 @@
 #### 1.2 Cloning the Repository
 ```bash
 git clone https://github.com/m-mahmoud-mohamed/MLOps-Project
+```
+```bash
 cd <repository-directory>
 ```
 
