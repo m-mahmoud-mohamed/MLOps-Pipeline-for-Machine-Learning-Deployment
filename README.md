@@ -51,6 +51,13 @@ Example Response:
 }
 ```
 
+#### 2.3 Using vertex API
+
+This screenshot shows a Python script interfacing with a Google Vertex AI endpoint to make a prediction. The script initializes the endpoint, prepares the input data, and sends a prediction request. The response, which classifies the input as 'Trojan,' is then printed, demonstrating the model's deployment and usage in a production environment.
+
+![image](https://github.com/m-mahmoud-mohamed/MLOps-Project/assets/78882792/24144d80-b1e5-41ef-a9e0-78980f43db78)
+
+
 
 
 
