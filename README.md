@@ -10,7 +10,7 @@
 
 #### 1.2 Cloning the Repository
 ```bash
-git clone https://github.com/m-mahmoud-mohamed/MLOps-Project.git
+git clone https://github.com/m-mahmoud-mohamed/MLOps-Pipeline-for-Machine-Learning-Deployment.git
 ```
 ```bash
 cd <repository-directory>
