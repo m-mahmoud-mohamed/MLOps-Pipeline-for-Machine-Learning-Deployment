@@ -1,5 +1,8 @@
 # MLOps-Project
 
+# About the project
+This project tackles the classification of high-dimensional data with multiple classes using a comprehensive machine learning approach. Utilizing a dataset with 384,704 rows and 9,504 columns labeled into 15 classes, the project employs XGBoost and Random Forest algorithms, with a rigorous feature selection process reducing the feature set to 450 significant features. The XGBoost model, chosen for its efficient training time and satisfactory accuracy, is containerized with Docker and deployed on Google Cloud's Vertex AI for scalable and reliable serving. Continuous performance monitoring ensures the model maintains high accuracy over time, demonstrating the effective application of advanced machine learning techniques and robust deployment strategies.
+
 ## Instructions
 
 ### 1. Setting Up and Running the Pipeline
